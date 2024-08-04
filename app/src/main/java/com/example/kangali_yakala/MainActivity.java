@@ -1,4 +1,4 @@
-12package com.example.kangali_yakala;
+package com.example.kangali_yakala;
 
 import android.os.Bundle;
 
